@@ -1,0 +1,2201 @@
+Tue Jul 19 2022 21:50:07 GMT+0530 (India Standard Time)
+TC_001:   Verify that, Seller is able to Add Produce    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Produce Start : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1056, -413) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+Wed Jul 20 2022 09:18:16 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Master List: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -365) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Produce Start : ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Fail   Element Not Found
+Verify Specified Val Saved or not:   Fail    Element not found
+Verify Specified Val Saved or not:   Fail    Element not present 
+Verify Specified Val Saved or not:   Fail    Element not found
+---Funtionality :Add Produce Start : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1056, -301) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Req: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Given xpath expression "//@class='ant-btn ant-btn-primary add-crop-btn vikas-btn-radius custom-primary-button' and @content='Add Requirements']" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Req: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -541) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Browsing context has been discarded
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+Wed Jul 20 2022 09:26:06 GMT+0530 (India Standard Time)
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   (1207, -358) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Master List: ---End:        
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -365) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Fail   Element Not Found
+Verify Specified Val Saved or not:   Fail    Element not found
+Verify Specified Val Saved or not:   Fail    Element not present 
+Verify Specified Val Saved or not:   Fail    Element not found
+---Funtionality :Add Produce Start : ---End:        
+Wed Jul 20 2022 09:30:49 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -356) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Master List: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -365) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Produce Start : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   (1056, -413) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Req: ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Given xpath expression "//@class='ant-btn ant-btn-primary add-crop-btn vikas-btn-radius custom-primary-button' and @content='Add Requirements']" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Req: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -541) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Connect Seller : ---Start:        
+Find Specified Element in the list :   Pass   
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Functionality : wait for OTP : ---start:      
+---Fuctionality : wait for OTP : ---End:      
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Connect Seller : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -786) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Accept Buyyer : ---Start:        
+---Funtionality :Login  : ---End:        
+Find Specified Element in the list :   Pass   
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30106ms
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Functionality : wait for OTP : ---start:      
+OTP failed : Please check!!!:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Browsing context has been discarded
+---Funtionality :Accept Buyer  : ---End:        
+Wed Jul 20 2022 10:28:32 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -356) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Master List: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -357) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -365) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Produce Start : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1056, -413) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Req: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Given xpath expression "//@class='ant-btn ant-btn-primary add-crop-btn vikas-btn-radius custom-primary-button' and @content='Add Requirements']" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Req: ---End:        
+Verify Specified Val Saved or not:   Fail    Not Saved 
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -541) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Connect Seller : ---Start:        
+Find Specified Element in the list :   Pass   
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Functionality : wait for OTP : ---start:      
+---Fuctionality : wait for OTP : ---End:      
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Connect Seller : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -784) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Accept Buyyer : ---Start:        
+Find Specified Element in the list :   Pass   
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30070ms
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Functionality : wait for OTP : ---start:      
+OTP failed : Please check!!!:      
+Click Specified Element :   Pass    
+Wed Jul 20 2022 10:41:23 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -355) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Master List: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -365) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Produce Start : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1056, -413) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Req: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Given xpath expression "//@class='ant-btn ant-btn-primary add-crop-btn vikas-btn-radius custom-primary-button' and @content='Add Requirements']" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Req: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -541) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Connect Seller : ---Start:        
+Find Specified Element in the list :   Pass   
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Functionality : wait for OTP : ---start:      
+---Fuctionality : wait for OTP : ---End:      
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Connect Seller : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -786) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Accept Buyyer : ---Start:        
+Find Specified Element in the list :   Pass   
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30088ms
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Functionality : wait for OTP : ---start:      
+OTP failed : Please check!!!:      
+Click Specified Element :   Pass    
+---Funtionality :Accept Buyer  : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1056, -675) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Functionality: Buyer Transaction : ---Start:      
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (151, 1338) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (56, 1338) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30072ms
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30086ms
+Wed Jul 20 2022 10:54:52 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Wed Jul 20 2022 10:56:47 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Functionality: Buyer Transaction : ---Start:      
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (151, 1338) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (56, 1338) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30109ms
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+Wed Jul 20 2022 11:00:08 GMT+0530 (India Standard Time)
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (734, 4406) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (734, 4271) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30102ms
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30097ms
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Wed Jul 20 2022 11:02:50 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Functionality: Buyer Transaction : ---Start:      
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (734, 4412) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (734, 3882) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30093ms
+Wed Jul 20 2022 11:05:20 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1286) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (56, 1338) is out of bounds of viewport width (1536) and height (778)
+Wed Jul 20 2022 11:07:31 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1286) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (56, 1330) is out of bounds of viewport width (1536) and height (778)
+Wed Jul 20 2022 11:10:06 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1286) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (56, 1338) is out of bounds of viewport width (1536) and height (778)
+Wed Jul 20 2022 11:18:58 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Functionality: Buyer Transaction : ---Start:      
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1286) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (56, 1338) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30060ms
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30085ms
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Fail   Element not Found
+Wed Jul 20 2022 11:23:22 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1286) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30094ms
+Wed Jul 20 2022 11:25:38 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1286) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Fail   Element not Found
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30085ms
+Edit Specified Field:   Pass    
+---Functionality : wait for File: ---start:      
+---Functionality : wait for File: ---End:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30070ms
+Wed Jul 20 2022 11:30:00 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1286) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+Wed Jul 20 2022 11:32:20 GMT+0530 (India Standard Time)
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1286) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+---Functionality : wait for File: ---start:      
+---Functionality : wait for File: ---End:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30100ms
+Wed Jul 20 2022 11:38:11 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1286) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+---Functionality : wait for File: ---start:      
+---Functionality : wait for File: ---End:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30065ms
+Sat Jul 23 2022 07:44:32 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Functionality: Buyer Transaction : ---Start:      
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1225) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   TypeError: rect is undefined
+Sat Jul 23 2022 08:04:38 GMT+0530 (India Standard Time)
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Fail   Specified Element not found
+Edit Specified Field:   Fail   Specified Element not found
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Tried to run command without establishing a connection
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Tried to run command without establishing a connection
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Tried to run command without establishing a connection
+Click Specified Element :   Fail   Tried to run command without establishing a connection
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Tried to run command without establishing a connection
+Sat Jul 23 2022 08:05:17 GMT+0530 (India Standard Time)
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Master List: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   (1054, -365) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Fail   Element Not Found
+Verify Specified Val Saved or not:   Fail    Element not found
+Verify Specified Val Saved or not:   Fail    Element not present 
+Verify Specified Val Saved or not:   Fail    Element not found
+---Funtionality :Add Produce Start : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1056, -268) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Req: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Given xpath expression "//@class='ant-btn ant-btn-primary add-crop-btn vikas-btn-radius custom-primary-button' and @content='Add Requirements']" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Req: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -599) is out of bounds of viewport width (1536) and height (778)
+Sat Jul 23 2022 08:12:03 GMT+0530 (India Standard Time)
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -349) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Master List: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -354) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Produce Start : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   (1056, -413) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Req: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Given xpath expression "//@class='ant-btn ant-btn-primary add-crop-btn vikas-btn-radius custom-primary-button' and @content='Add Requirements']" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Req: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -541) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Connect Seller : ---Start:        
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Functionality : wait for OTP : ---start:      
+---Fuctionality : wait for OTP : ---End:      
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Connect Seller : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -726) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Accept Buyyer : ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30109ms
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Functionality : wait for OTP : ---start:      
+OTP failed : Please check!!!:      
+Click Specified Element :   Pass    
+Sat Jul 23 2022 08:22:15 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1230) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+---Functionality : wait for File: ---start:      
+---Functionality : wait for File: ---End:      
+Sat Jul 23 2022 08:35:01 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1230) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Sat Jul 23 2022 08:37:37 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Functionality: Buyer Transaction : ---Start:      
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (768, 1230) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Sat Jul 23 2022 08:41:52 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -357) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -357) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -354) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Fail   Element Not Found
+Verify Specified Val Saved or not:   Fail    Element not found
+Verify Specified Val Saved or not:   Fail    Element not present 
+---Funtionality :Add Produce Start : ---End:        
+Verify Specified Val Saved or not:   Fail    Element not found
+Sat Jul 23 2022 08:47:28 GMT+0530 (India Standard Time)
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -340) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Master List: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -358) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -354) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Fail   Element Not Found
+Verify Specified Val Saved or not:   Fail    Element not found
+Verify Specified Val Saved or not:   Fail    Element not present 
+---Funtionality :Add Produce Start : ---End:        
+Verify Specified Val Saved or not:   Fail    Element not found
+Sat Jul 23 2022 08:56:28 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -354) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Fail   Element Not Found
+Verify Specified Val Saved or not:   Fail    Element not found
+Verify Specified Val Saved or not:   Fail    Element not present 
+Verify Specified Val Saved or not:   Fail    Element not found
+---Funtionality :Add Produce Start : ---End:        
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+Sat Jul 23 2022 09:00:57 GMT+0530 (India Standard Time)
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -349) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Master List: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -354) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Sat Jul 23 2022 09:05:38 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Master List: ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -354) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Add Produce Start : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Fail    Not Saved 
+Verify Specified Val Saved or not:   Fail    Not Saved 
+Verify Specified Val Saved or not:   Fail    Not Saved 
+---Funtionality :Add Produce Start : ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1056, -413) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Req: ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Given xpath expression "//@class='ant-btn ant-btn-primary add-crop-btn vikas-btn-radius custom-primary-button' and @content='Add Requirements']" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Fail    Not Saved 
+Verify Specified Val Saved or not:   Pass    
+---Funtionality :Add Req: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -541) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+---Funtionality :Connect Seller : ---Start:        
+Find Specified Element in the list :   Fail   Element Not Found
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Timed out after 30 seconds
+Wait timed out after 30085ms
+Sat Jul 23 2022 09:23:47 GMT+0530 (India Standard Time)
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+Sat Jul 23 2022 09:25:45 GMT+0530 (India Standard Time)
+Sat Jul 23 2022 09:27:44 GMT+0530 (India Standard Time)
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+---Funtionality :Login  : ---Start:        
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+Sat Jul 23 2022 09:31:51 GMT+0530 (India Standard Time)
+Sat Jul 23 2022 09:32:15 GMT+0530 (India Standard Time)
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Fail   Specified Element not found
+Edit Specified Field:   Fail   Specified Element not found
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Tried to run command without establishing a connection
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   Tried to run command without establishing a connection
+Sat Jul 23 2022 09:35:02 GMT+0530 (India Standard Time)
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+Sat Jul 23 2022 09:43:12 GMT+0530 (India Standard Time)
+TC_005:   Verify that, Buyer and Seller are  able to Connect and Accept Respectively    
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -354) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Produce Start : ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Fail   Element Not Found
+Verify Specified Val Saved or not:   Fail    Element not found
+Verify Specified Val Saved or not:   Fail    Element not present 
+Verify Specified Val Saved or not:   Fail    Element not found
+---Funtionality :Add Produce Start : ---End:        
+Sat Jul 23 2022 16:34:20 GMT+0530 (India Standard Time)
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+TC_101:   Verify that, Buyer and Seller is able to Transaction for One installment    
+Sat Jul 23 2022 16:34:54 GMT+0530 (India Standard Time)
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -310) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1207, -359) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Pass   
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Verify Specified Val Saved or not:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Master List: ---End:        
+---Funtionality :Log out : ---Start:        
+Click Specified Element :   Fail   Element not found
+Click Specified Element :   Fail   (1054, -353) is out of bounds of viewport width (1536) and height (778)
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Log out : ---End:        
+---Funtionality :Login  : ---Start:        
+Click Specified Element :   Pass    
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+---Funtionality :Add Produce Start : ---Start:        
+---Funtionality :Login  : ---End:        
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Click Specified Element :   Pass    
+Select Specified Element in the list and Click:   Pass   undefined
+Edit Specified Field:   Pass    
+Edit Specified Field:   Pass    
+Click Specified Element :   Pass    
+Click Specified Element :   Pass    
+Find Specified Element in the list :   Fail   Element Not Found
+Verify Specified Val Saved or not:   Fail    Element not found
+Verify Specified Val Saved or not:   Fail    Element not present 
+Verify Specified Val Saved or not:   Fail    Element not found
+---Funtionality :Add Produce Start : ---End:        
